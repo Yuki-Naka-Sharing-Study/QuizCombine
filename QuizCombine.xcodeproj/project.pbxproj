@@ -11,6 +11,8 @@
 		D11773522E0CF3CD00D082F9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D11773512E0CF3CD00D082F9 /* ContentView.swift */; };
 		D11773542E0CF3CF00D082F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D11773532E0CF3CF00D082F9 /* Assets.xcassets */; };
 		D11773572E0CF3CF00D082F9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D11773562E0CF3CF00D082F9 /* Preview Assets.xcassets */; };
+		D117735E2E0CF40F00D082F9 /* Quiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = D117735D2E0CF40F00D082F9 /* Quiz.swift */; };
+		D11773602E0CF42600D082F9 /* QuizZipCollectViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D117735F2E0CF42600D082F9 /* QuizZipCollectViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		D11773512E0CF3CD00D082F9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D11773532E0CF3CF00D082F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D11773562E0CF3CF00D082F9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D117735D2E0CF40F00D082F9 /* Quiz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quiz.swift; sourceTree = "<group>"; };
+		D117735F2E0CF42600D082F9 /* QuizZipCollectViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizZipCollectViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				D11773512E0CF3CD00D082F9 /* ContentView.swift */,
 				D11773532E0CF3CF00D082F9 /* Assets.xcassets */,
 				D11773552E0CF3CF00D082F9 /* Preview Content */,
+				D117735D2E0CF40F00D082F9 /* Quiz.swift */,
+				D117735F2E0CF42600D082F9 /* QuizZipCollectViewModel.swift */,
 			);
 			path = QuizCombine;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			files = (
 				D11773522E0CF3CD00D082F9 /* ContentView.swift in Sources */,
 				D11773502E0CF3CD00D082F9 /* QuizCombineApp.swift in Sources */,
+				D11773602E0CF42600D082F9 /* QuizZipCollectViewModel.swift in Sources */,
+				D117735E2E0CF40F00D082F9 /* Quiz.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
